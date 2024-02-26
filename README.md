@@ -44,7 +44,7 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>](https://www.djangoproject.com/)
 
 
-#### Tools:
+#### Tools 🛠:
   
 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
@@ -59,7 +59,7 @@
 
   
 
-## Academic Background:
+## Academic Background 👨‍🎓:
 
   
 
