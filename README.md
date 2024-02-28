@@ -1,9 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Yahya+Qadeer+Dar;I'm+a+Computer+Science+Student+at+GIKI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6a00f4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Yahya+Qadeer+Dar;I'm+a+Computer+Science+Student+at+GIKI)](https://git.io/typing-svg)
 
   
 
-<h3  align="center">"A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are."</h3>
+<h3  align="center">"A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are."style='color:f20089';</h3>
 
   
   
