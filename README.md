@@ -1,6 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Yahya+Qadeer+Dar;I'm+a+Computer+Science+Student+at+GIKI)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=41&pause=1000&color=33FF00&center=true&vCenter=true&random=false&width=800&height=60&lines=Welcome+To+My+GitHub+Profile!;The+Name's+Dar...;Yahya+Qadeer+Dar.;I'm+A+Computer+Science+Student+At+GIKI.)](https://git.io/typing-svg)
   
 
 <h3  align="center">"A bug is never just a mistake. It represents something bigger. An error of thinking that makes you who you are."</h3>
@@ -14,9 +12,9 @@
 
 <div  align="center"  style="margin-bottom:200px">
 
-<img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=YahyaDar&theme=radical&show_icons=true"  />
+<img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=YahyaDar&theme=merko&show_icons=true&hide=prs"  />
 
-<img  width=40%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaDar&layout=compact&theme=radical"  />
+<img  width=40%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaDar&layout=compact&theme=merko"  />
 
 </div>
 
@@ -37,20 +35,27 @@
 
 #### Languages & Frameworks:
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
+
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>](https://www.djangoproject.com/)
 
 
-#### Tools 🛠:
+#### Tools:
   
 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
+
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=pycharm"/>](https://www.jetbrains.com/pycharm/)
+
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=clion"/>](https://www.jetbrains.com/clion/)
 
   
@@ -59,7 +64,7 @@
 
   
 
-## Academic Background 👨‍🎓:
+## Academic Background:
 
   
 
@@ -80,6 +85,7 @@
 <div>
 
 <a  href = "mailto: yahyaqdar@gmail.com"><img  loading="lazy"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank"></a>
+
 <a  href="https://www.linkedin.com/in/yahya-dar-598b07280/"  target="_blank"><img  loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 
 </div>
