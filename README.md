@@ -57,7 +57,7 @@
 
   
 
-## Academic Background 👨‍🎓:
+## Academic Background 👨‍🎓
 
   
 
