@@ -12,7 +12,7 @@
 
 <div  align="center"  style="margin-bottom:200px">
 
-<img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=YahyaDar&theme=merko&show_icons=true&hide=prs"  />
+<img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=YahyaDar&theme=merko&show_icons=true"  />
 
 <img  width=40%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaDar&layout=compact&theme=merko"  />
 
@@ -35,27 +35,20 @@
 
 #### Languages & Frameworks:
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
-
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>](https://www.djangoproject.com/)
 
 
-#### Tools:
+#### Tools 🛠:
   
 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
-
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=pycharm"/>](https://www.jetbrains.com/pycharm/)
-
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=clion"/>](https://www.jetbrains.com/clion/)
 
   
@@ -64,7 +57,7 @@
 
   
 
-## Academic Background:
+## Academic Background 👨‍🎓:
 
   
 
