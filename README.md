@@ -1,6 +1,5 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=41&pause=1000&color=33FF00&center=true&vCenter=true&random=false&width=800&height=60&lines=Yahya+Qadeer+Dar.)](https://git.io/typing-svg)
-</div>
+<h3> </h3>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=41&pause=1000&color=33FF00&center=true&vCenter=true&random=false&width=800&height=60&lines=Yahya+Qadeer+Dar.)](https://git.io/typing-svg)
+
 
 <h3  align="center">Computer Science Student @ GIKI</h3>
 
